@@ -1,0 +1,93 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "AI Document Schema",
+  "description": "Schema for AI-ready documents extracted from web pages, optimized for RAG, fine-tuning, and analytics workflows",
+  "type": "object",
+  "required": [
+    "url",
+    "title",
+    "body_text",
+    "fetched_at",
+    "content_type",
+    "word_count",
+    "char_count",
+    "language",
+    "estimated_read_time_minutes",
+    "has_code_blocks",
+    "link_density",
+    "paragraph_count",
+    "http_status",
+    "crawl_depth"
+  ],
+  "properties": {
+    "url": {
+      "type": "string",
+      "format": "uri",
+      "description": "Canonical URL of the document"
+    },
+    "title": {
+      "type": "string",
+      "description": "Page title extracted from <title>, <h1>, or og:title"
+    },
+    "body_text": {
+      "type": "string",
+      "description": "Cleaned main content text with boilerplate removed, whitespace normalized"
+    },
+    "fetched_at": {
+      "type": "string",
+      "format": "date-time",
+      "description": "ISO 8601 timestamp of when the document was fetched (UTC)"
+    },
+    "content_type": {
+      "type": "string",
+      "enum": ["article", "doc_page", "product_page", "list_page", "tutorial"],
+      "description": "Heuristic classification of content type for filtering"
+    },
+    "word_count": {
+      "type": "integer",
+      "minimum": 0,
+      "description": "Number of words in body_text"
+    },
+    "char_count": {
+      "type": "integer",
+      "minimum": 0,
+      "description": "Number of characters in body_text"
+    },
+    "language": {
+      "type": "string",
+      "description": "ISO 639-1 language code (e.g., 'en', 'es') or 'unknown'"
+    },
+    "estimated_read_time_minutes": {
+      "type": "number",
+      "minimum": 0,
+      "description": "Estimated reading time in minutes (assuming 200 words/minute)"
+    },
+    "has_code_blocks": {
+      "type": "boolean",
+      "description": "Whether the page contains code blocks (<code>, <pre>, or markdown code)"
+    },
+    "link_density": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1,
+      "description": "Ratio of link text to total text (high values suggest navigation/index pages)"
+    },
+    "paragraph_count": {
+      "type": "integer",
+      "minimum": 0,
+      "description": "Number of paragraphs in the document"
+    },
+    "http_status": {
+      "type": "integer",
+      "minimum": 100,
+      "maximum": 599,
+      "description": "HTTP status code from the fetch request"
+    },
+    "crawl_depth": {
+      "type": "integer",
+      "minimum": 0,
+      "description": "Link depth from the starting URL (0 = start URL)"
+    }
+  }
+}
+

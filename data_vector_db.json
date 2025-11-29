@@ -1,0 +1,602 @@
+[
+  {
+    "id": "20534bd6e3045e68218fc02220f9feee",
+    "text": "Home All products All products 1000 results - showing 1 to 20 . Warning! This is a demo website for web scraping purposes. Prices and ratings here were randomly assigned and have no real meaning. A Light in the ... \u00c2\u00a351.77 In stock Add to basket Tipping the Velvet \u00c2\u00a353.74 In stock Add to basket Soumission \u00c2\u00a350.10 In stock Add to basket Sharp Objects \u00c2\u00a347.82 In stock Add to basket Sapiens: A Brief History ... \u00c2\u00a354.23 In stock Add to basket The Requiem Red \u00c2\u00a322.65 In stock Add to basket The Dirty Little Secrets ... \u00c2\u00a333.34 In stock Add to basket The Coming Woman: A ... \u00c2\u00a317.93 In stock Add to basket The Boys in the ... \u00c2\u00a322.60 In stock Add to basket The Black Maria \u00c2\u00a352.15 In stock Add to basket Starving Hearts (Triangular Trade ... \u00c2\u00a313.99 In stock Add to basket Shakespeare's Sonnets \u00c2\u00a320.66 In stock Add to basket Set Me Free \u00c2\u00a317.46 In stock Add to basket Scott Pilgrim's Precious Little ... \u00c2\u00a352.29 In stock Add to basket Rip it Up and ... \u00c2\u00a335.02 In stock Add to basket Our Band Could Be ... \u00c2\u00a357.25 In stock Add to basket Olio \u00c2\u00a323.88 In stock Add to basket Mesaerion: The Best Science ... \u00c2\u00a337.59 In stock Add to basket Libertarianism for Beginners \u00c2\u00a351.33 In stock Add to basket It's Only the Himalayas \u00c2\u00a345.17 In stock Add to basket Page 1 of 50 next",
+    "metadata": {
+      "url": "https://books.toscrape.com",
+      "title": "All products | Books to Scrape - Sandbox",
+      "content_type": "list_page",
+      "language": "en",
+      "word_count": 235,
+      "fetched_at": "2025-11-29T04:34:57.893009+00:00"
+    }
+  },
+  {
+    "id": "d03bbffa65ec73a7f233164433a15183",
+    "text": "Home All products All products 1000 results - showing 1 to 20 . Warning! This is a demo website for web scraping purposes. Prices and ratings here were randomly assigned and have no real meaning. A Light in the ... \u00c2\u00a351.77 In stock Add to basket Tipping the Velvet \u00c2\u00a353.74 In stock Add to basket Soumission \u00c2\u00a350.10 In stock Add to basket Sharp Objects \u00c2\u00a347.82 In stock Add to basket Sapiens: A Brief History ... \u00c2\u00a354.23 In stock Add to basket The Requiem Red \u00c2\u00a322.65 In stock Add to basket The Dirty Little Secrets ... \u00c2\u00a333.34 In stock Add to basket The Coming Woman: A ... \u00c2\u00a317.93 In stock Add to basket The Boys in the ... \u00c2\u00a322.60 In stock Add to basket The Black Maria \u00c2\u00a352.15 In stock Add to basket Starving Hearts (Triangular Trade ... \u00c2\u00a313.99 In stock Add to basket Shakespeare's Sonnets \u00c2\u00a320.66 In stock Add to basket Set Me Free \u00c2\u00a317.46 In stock Add to basket Scott Pilgrim's Precious Little ... \u00c2\u00a352.29 In stock Add to basket Rip it Up and ... \u00c2\u00a335.02 In stock Add to basket Our Band Could Be ... \u00c2\u00a357.25 In stock Add to basket Olio \u00c2\u00a323.88 In stock Add to basket Mesaerion: The Best Science ... \u00c2\u00a337.59 In stock Add to basket Libertarianism for Beginners \u00c2\u00a351.33 In stock Add to basket It's Only the Himalayas \u00c2\u00a345.17 In stock Add to basket Page 1 of 50 next",
+    "metadata": {
+      "url": "https://books.toscrape.com/index.html",
+      "title": "All products | Books to Scrape - Sandbox",
+      "content_type": "list_page",
+      "language": "en",
+      "word_count": 235,
+      "fetched_at": "2025-11-29T04:34:59.023706+00:00"
+    }
+  },
+  {
+    "id": "575e198828cec373fcc2133f8269fa95",
+    "text": "Home Books Books 1000 results - showing 1 to 20 . Warning! This is a demo website for web scraping purposes. Prices and ratings here were randomly assigned and have no real meaning. A Light in the ... \u00c2\u00a351.77 In stock Add to basket Tipping the Velvet \u00c2\u00a353.74 In stock Add to basket Soumission \u00c2\u00a350.10 In stock Add to basket Sharp Objects \u00c2\u00a347.82 In stock Add to basket Sapiens: A Brief History ... \u00c2\u00a354.23 In stock Add to basket The Requiem Red \u00c2\u00a322.65 In stock Add to basket The Dirty Little Secrets ... \u00c2\u00a333.34 In stock Add to basket The Coming Woman: A ... \u00c2\u00a317.93 In stock Add to basket The Boys in the ... \u00c2\u00a322.60 In stock Add to basket The Black Maria \u00c2\u00a352.15 In stock Add to basket Starving Hearts (Triangular Trade ... \u00c2\u00a313.99 In stock Add to basket Shakespeare's Sonnets \u00c2\u00a320.66 In stock Add to basket Set Me Free \u00c2\u00a317.46 In stock Add to basket Scott Pilgrim's Precious Little ... \u00c2\u00a352.29 In stock Add to basket Rip it Up and ... \u00c2\u00a335.02 In stock Add to basket Our Band Could Be ... \u00c2\u00a357.25 In stock Add to basket Olio \u00c2\u00a323.88 In stock Add to basket Mesaerion: The Best Science ... \u00c2\u00a337.59 In stock Add to basket Libertarianism for Beginners \u00c2\u00a351.33 In stock Add to basket It's Only the Himalayas \u00c2\u00a345.17 In stock Add to basket Page 1 of 50 next",
+    "metadata": {
+      "url": "https://books.toscrape.com/catalogue/category/books_1/index.html",
+      "title": "Books | \n     Books to Scrape - Sandbox",
+      "content_type": "product_page",
+      "language": "en",
+      "word_count": 233,
+      "fetched_at": "2025-11-29T04:35:00.154768+00:00"
+    }
+  },
+  {
+    "id": "df6eecee12183f6035eac0ceea8b68ad",
+    "text": "Home Books Travel Travel 11 results. Warning! This is a demo website for web scraping purposes. Prices and ratings here were randomly assigned and have no real meaning. It's Only the Himalayas \u00c2\u00a345.17 In stock Add to basket Full Moon over Noah\u00e2\u0080\u0099s ... \u00c2\u00a349.43 In stock Add to basket See America: A Celebration ... \u00c2\u00a348.87 In stock Add to basket Vagabonding: An Uncommon Guide ... \u00c2\u00a336.94 In stock Add to basket Under the Tuscan Sun \u00c2\u00a337.33 In stock Add to basket A Summer In Europe \u00c2\u00a344.34 In stock Add to basket The Great Railway Bazaar \u00c2\u00a330.54 In stock Add to basket A Year in Provence ... \u00c2\u00a356.88 In stock Add to basket The Road to Little ... \u00c2\u00a323.21 In stock Add to basket Neither Here nor There: ... \u00c2\u00a338.95 In stock Add to basket 1,000 Places to See ... \u00c2\u00a326.08 In stock Add to basket",
+    "metadata": {
+      "url": "https://books.toscrape.com/catalogue/category/books/travel_2/index.html",
+      "title": "Travel | \n     Books to Scrape - Sandbox",
+      "content_type": "product_page",
+      "language": "en",
+      "word_count": 145,
+      "fetched_at": "2025-11-29T04:35:01.246369+00:00"
+    }
+  },
+  {
+    "id": "d4c83c25957c788b86a97bcc732fef52",
+    "text": "Home Books Mystery Mystery 32 results - showing 1 to 20 . Warning! This is a demo website for web scraping purposes. Prices and ratings here were randomly assigned and have no real meaning. Sharp Objects \u00c2\u00a347.82 In stock Add to basket In a Dark, Dark ... \u00c2\u00a319.63 In stock Add to basket The Past Never Ends \u00c2\u00a356.50 In stock Add to basket A Murder in Time \u00c2\u00a316.64 In stock Add to basket The Murder of Roger ... \u00c2\u00a344.10 In stock Add to basket The Last Mile (Amos ... \u00c2\u00a354.21 In stock Add to basket That Darkness (Gardiner and ... \u00c2\u00a313.92 In stock Add to basket Tastes Like Fear (DI ... \u00c2\u00a310.69 In stock Add to basket A Time of Torment ... \u00c2\u00a348.35 In stock Add to basket A Study in Scarlet ... \u00c2\u00a316.73 In stock Add to basket Poisonous (Max Revere Novels ... \u00c2\u00a326.80 In stock Add to basket Murder at the 42nd ... \u00c2\u00a354.36 In stock Add to basket Most Wanted \u00c2\u00a335.28 In stock Add to basket Hide Away (Eve Duncan ... \u00c2\u00a311.84 In stock Add to basket Boar Island (Anna Pigeon ... \u00c2\u00a359.48 In stock Add to basket The Widow \u00c2\u00a327.26 In stock Add to basket Playing with Fire \u00c2\u00a313.71 In stock Add to basket What Happened on Beale ... \u00c2\u00a325.37 In stock Add to basket The Bachelor Girl's Guide ... \u00c2\u00a352.30 In stock Add to basket Delivering the Truth (Quaker ... \u00c2\u00a320.89 In stock Add to basket Page 1 of 2 next",
+    "metadata": {
+      "url": "https://books.toscrape.com/catalogue/category/books/mystery_3/index.html",
+      "title": "Mystery | \n     Books to Scrape - Sandbox",
+      "content_type": "product_page",
+      "language": "en",
+      "word_count": 246,
+      "fetched_at": "2025-11-29T04:35:02.369266+00:00"
+    }
+  },
+  {
+    "id": "567b6f9d6cf2f18900bd5045cf546b48",
+    "text": "Home Books Historical Fiction Historical Fiction 26 results - showing 1 to 20 . Warning! This is a demo website for web scraping purposes. Prices and ratings here were randomly assigned and have no real meaning. Tipping the Velvet \u00c2\u00a353.74 In stock Add to basket Forever and Forever: The ... \u00c2\u00a329.69 In stock Add to basket A Flight of Arrows ... \u00c2\u00a355.53 In stock Add to basket The House by the ... \u00c2\u00a336.95 In stock Add to basket Mrs. Houdini \u00c2\u00a330.25 In stock Add to basket The Marriage of Opposites \u00c2\u00a328.08 In stock Add to basket Glory over Everything: Beyond ... \u00c2\u00a345.84 In stock Add to basket Love, Lies and Spies \u00c2\u00a320.55 In stock Add to basket A Paris Apartment \u00c2\u00a339.01 In stock Add to basket Lilac Girls \u00c2\u00a317.28 In stock Add to basket The Constant Princess (The ... \u00c2\u00a316.62 In stock Add to basket The Invention of Wings \u00c2\u00a337.34 In stock Add to basket World Without End (The ... \u00c2\u00a332.97 In stock Add to basket The Passion of Dolssa \u00c2\u00a328.32 In stock Add to basket Girl With a Pearl ... \u00c2\u00a326.77 In stock Add to basket Voyager (Outlander #3) \u00c2\u00a321.07 In stock Add to basket The Red Tent \u00c2\u00a335.66 In stock Add to basket The Last Painting of ... \u00c2\u00a355.55 In stock Add to basket The Guernsey Literary and ... \u00c2\u00a349.53 In stock Add to basket Girl in the Blue ... \u00c2\u00a346.83 In stock Add to basket Page 1 of 2 next",
+    "metadata": {
+      "url": "https://books.toscrape.com/catalogue/category/books/historical-fiction_4/index.html",
+      "title": "Historical Fiction | \n     Books to Scrape - Sandbox",
+      "content_type": "product_page",
+      "language": "en",
+      "word_count": 243,
+      "fetched_at": "2025-11-29T04:35:03.494453+00:00"
+    }
+  },
+  {
+    "id": "c687aeeab2d89fa179d50e64fd033496",
+    "text": "Home Books Sequential Art Sequential Art 75 results - showing 1 to 20 . Warning! This is a demo website for web scraping purposes. Prices and ratings here were randomly assigned and have no real meaning. Scott Pilgrim's Precious Little ... \u00c2\u00a352.29 In stock Add to basket Tsubasa: WoRLD CHRoNiCLE 2 ... \u00c2\u00a316.28 In stock Add to basket This One Summer \u00c2\u00a319.49 In stock Add to basket The Nameless City (The ... \u00c2\u00a338.16 In stock Add to basket Saga, Volume 5 (Saga ... \u00c2\u00a351.04 In stock Add to basket Rat Queens, Vol. 3: ... \u00c2\u00a350.40 In stock Add to basket Princess Jellyfish 2-in-1 Omnibus, ... \u00c2\u00a313.61 In stock Add to basket Pop Gun War, Volume ... \u00c2\u00a318.97 In stock Add to basket Patience \u00c2\u00a310.16 In stock Add to basket Outcast, Vol. 1: A ... \u00c2\u00a315.44 In stock Add to basket orange: The Complete Collection ... \u00c2\u00a348.41 In stock Add to basket Lumberjanes, Vol. 2: Friendship ... \u00c2\u00a346.91 In stock Add to basket Lumberjanes, Vol. 1: Beware ... \u00c2\u00a345.61 In stock Add to basket Lumberjanes Vol. 3: A ... \u00c2\u00a319.92 In stock Add to basket I Hate Fairyland, Vol. ... \u00c2\u00a329.17 In stock Add to basket I am a Hero ... \u00c2\u00a354.63 In stock Add to basket Giant Days, Vol. 2 ... \u00c2\u00a322.11 In stock Add to basket Danganronpa Volume 1 \u00c2\u00a351.99 In stock Add to basket Codename Baboushka, Volume 1: ... \u00c2\u00a336.72 In stock Add to basket Camp Midnight \u00c2\u00a317.08 In stock Add to basket Page 1 of 4 next",
+    "metadata": {
+      "url": "https://books.toscrape.com/catalogue/category/books/sequential-art_5/index.html",
+      "title": "Sequential Art | \n     Books to Scrape - Sandbox",
+      "content_type": "product_page",
+      "language": "en",
+      "word_count": 250,
+      "fetched_at": "2025-11-29T04:35:04.672878+00:00"
+    }
+  },
+  {
+    "id": "1ea5ebd172a1dea1038e1cba4fc63828",
+    "text": "Home Books Classics Classics 19 results. Warning! This is a demo website for web scraping purposes. Prices and ratings here were randomly assigned and have no real meaning. The Secret Garden \u00c2\u00a315.08 In stock Add to basket The Metamorphosis \u00c2\u00a328.58 In stock Add to basket The Pilgrim's Progress \u00c2\u00a350.26 In stock Add to basket The Hound of the ... \u00c2\u00a314.82 In stock Add to basket Little Women (Little Women ... \u00c2\u00a328.07 In stock Add to basket Gone with the Wind \u00c2\u00a332.49 In stock Add to basket Candide \u00c2\u00a358.63 In stock Add to basket Animal Farm \u00c2\u00a357.22 In stock Add to basket Wuthering Heights \u00c2\u00a317.73 In stock Add to basket The Picture of Dorian ... \u00c2\u00a329.70 In stock Add to basket The Complete Stories and ... \u00c2\u00a326.78 In stock Add to basket Beowulf \u00c2\u00a338.35 In stock Add to basket And Then There Were ... \u00c2\u00a335.01 In stock Add to basket The Story of Hong ... \u00c2\u00a343.19 In stock Add to basket The Little Prince \u00c2\u00a345.42 In stock Add to basket Sense and Sensibility \u00c2\u00a337.46 In stock Add to basket Of Mice and Men \u00c2\u00a347.11 In stock Add to basket Emma \u00c2\u00a332.93 In stock Add to basket Alice in Wonderland (Alice's ... \u00c2\u00a355.53 In stock Add to basket",
+    "metadata": {
+      "url": "https://books.toscrape.com/catalogue/category/books/classics_6/index.html",
+      "title": "Classics | \n     Books to Scrape - Sandbox",
+      "content_type": "product_page",
+      "language": "en",
+      "word_count": 206,
+      "fetched_at": "2025-11-29T04:35:05.811351+00:00"
+    }
+  },
+  {
+    "id": "f89cfd3eedb339553c5840c759a8f148",
+    "text": "Home Books Philosophy Philosophy 11 results. Warning! This is a demo website for web scraping purposes. Prices and ratings here were randomly assigned and have no real meaning. Sophie's World \u00c2\u00a315.94 In stock Add to basket The Death of Humanity: ... \u00c2\u00a358.11 In stock Add to basket The Stranger \u00c2\u00a317.44 In stock Add to basket Proofs of God: Classical ... \u00c2\u00a354.21 In stock Add to basket Kierkegaard: A Christian Missionary ... \u00c2\u00a347.13 In stock Add to basket At The Existentialist Caf\u00c3\u00a9: ... \u00c2\u00a329.93 In stock Add to basket Critique of Pure Reason \u00c2\u00a320.75 In stock Add to basket Run, Spot, Run: The ... \u00c2\u00a320.02 In stock Add to basket The Nicomachean Ethics \u00c2\u00a336.34 In stock Add to basket Meditations \u00c2\u00a325.89 In stock Add to basket Beyond Good and Evil \u00c2\u00a343.38 In stock Add to basket",
+    "metadata": {
+      "url": "https://books.toscrape.com/catalogue/category/books/philosophy_7/index.html",
+      "title": "Philosophy | \n     Books to Scrape - Sandbox",
+      "content_type": "product_page",
+      "language": "en",
+      "word_count": 135,
+      "fetched_at": "2025-11-29T04:35:06.916915+00:00"
+    }
+  },
+  {
+    "id": "94ec70023e94605f05968e5a9283dc26",
+    "text": "Home Books Romance Romance 35 results - showing 1 to 20 . Warning! This is a demo website for web scraping purposes. Prices and ratings here were randomly assigned and have no real meaning. Chase Me (Paris Nights ... \u00c2\u00a325.27 In stock Add to basket Black Dust \u00c2\u00a334.53 In stock Add to basket Her Backup Boyfriend (The ... \u00c2\u00a333.97 In stock Add to basket First and First (Five ... \u00c2\u00a315.97 In stock Add to basket Fifty Shades Darker (Fifty ... \u00c2\u00a321.96 In stock Add to basket The Wedding Dress \u00c2\u00a324.12 In stock Add to basket Suddenly in Love (Lake ... \u00c2\u00a355.99 In stock Add to basket Something More Than This \u00c2\u00a316.24 In stock Add to basket Doing It Over (Most ... \u00c2\u00a335.61 In stock Add to basket The Wedding Pact (The ... \u00c2\u00a332.61 In stock Add to basket Hold Your Breath (Search ... \u00c2\u00a328.82 In stock Add to basket Dirty (Dive Bar #1) \u00c2\u00a340.83 In stock Add to basket Take Me Home Tonight ... \u00c2\u00a353.98 In stock Add to basket Off the Hook (Fishing ... \u00c2\u00a347.67 In stock Add to basket A Gentleman's Position (Society ... \u00c2\u00a314.75 In stock Add to basket Sit, Stay, Love \u00c2\u00a320.90 In stock Add to basket A Girl's Guide to ... \u00c2\u00a331.30 In stock Add to basket The Perfect Play (Play ... \u00c2\u00a359.99 In stock Add to basket Dark Lover (Black Dagger ... \u00c2\u00a312.87 In stock Add to basket Changing the Game (Play ... \u00c2\u00a313.38 In stock Add to basket Page 1 of 2 next",
+    "metadata": {
+      "url": "https://books.toscrape.com/catalogue/category/books/romance_8/index.html",
+      "title": "Romance | \n     Books to Scrape - Sandbox",
+      "content_type": "product_page",
+      "language": "en",
+      "word_count": 250,
+      "fetched_at": "2025-11-29T04:35:08.055843+00:00"
+    }
+  },
+  {
+    "id": "2cb05ab32629ab41179e34c24701dccf",
+    "text": "Home Books Womens Fiction Womens Fiction 17 results. Warning! This is a demo website for web scraping purposes. Prices and ratings here were randomly assigned and have no real meaning. I Had a Nice ... \u00c2\u00a357.36 In stock Add to basket Will You Won't You ... \u00c2\u00a313.86 In stock Add to basket Keep Me Posted \u00c2\u00a320.46 In stock Add to basket Grey (Fifty Shades #4) \u00c2\u00a348.49 In stock Add to basket Meternity \u00c2\u00a343.58 In stock Add to basket Some Women \u00c2\u00a313.73 In stock Add to basket Shopaholic Ties the Knot ... \u00c2\u00a348.39 In stock Add to basket Can You Keep a ... \u00c2\u00a321.94 In stock Add to basket Twenties Girl \u00c2\u00a342.80 In stock Add to basket The Undomestic Goddess \u00c2\u00a345.75 In stock Add to basket The Nanny Diaries (Nanny ... \u00c2\u00a352.53 In stock Add to basket The Devil Wears Prada ... \u00c2\u00a344.29 In stock Add to basket Something Borrowed (Darcy & ... \u00c2\u00a348.96 In stock Add to basket Something Blue (Darcy & ... \u00c2\u00a354.62 In stock Add to basket I've Got Your Number \u00c2\u00a319.69 In stock Add to basket The Edge of Reason ... \u00c2\u00a319.18 In stock Add to basket Bridget Jones's Diary (Bridget ... \u00c2\u00a329.82 In stock Add to basket",
+    "metadata": {
+      "url": "https://books.toscrape.com/catalogue/category/books/womens-fiction_9/index.html",
+      "title": "Womens Fiction | \n     Books to Scrape - Sandbox",
+      "content_type": "product_page",
+      "language": "en",
+      "word_count": 201,
+      "fetched_at": "2025-11-29T04:35:09.191158+00:00"
+    }
+  },
+  {
+    "id": "e6e880276b6656f7d0715502fc1c4338",
+    "text": "Home Books Fiction Fiction 65 results - showing 1 to 20 . Warning! This is a demo website for web scraping purposes. Prices and ratings here were randomly assigned and have no real meaning. Soumission \u00c2\u00a350.10 In stock Add to basket Private Paris (Private #10) \u00c2\u00a347.61 In stock Add to basket We Love You, Charlie ... \u00c2\u00a350.27 In stock Add to basket Thirst \u00c2\u00a317.27 In stock Add to basket The Murder That Never ... \u00c2\u00a354.11 In stock Add to basket Tuesday Nights in 1980 \u00c2\u00a321.04 In stock Add to basket The Vacationers \u00c2\u00a342.15 In stock Add to basket The Regional Office Is ... \u00c2\u00a351.36 In stock Add to basket Finders Keepers (Bill Hodges ... \u00c2\u00a353.53 In stock Add to basket The Time Keeper \u00c2\u00a327.88 In stock Add to basket The Testament of Mary \u00c2\u00a352.67 In stock Add to basket The First Hostage (J.B. ... \u00c2\u00a325.85 In stock Add to basket Take Me with You \u00c2\u00a345.21 In stock Add to basket Still Life with Bread ... \u00c2\u00a326.41 In stock Add to basket Shtum \u00c2\u00a355.84 In stock Add to basket My Name Is Lucy ... \u00c2\u00a341.56 In stock Add to basket My Mrs. Brown \u00c2\u00a324.48 In stock Add to basket Mr. Mercedes (Bill Hodges ... \u00c2\u00a328.90 In stock Add to basket I Am Pilgrim (Pilgrim ... \u00c2\u00a310.60 In stock Add to basket Eligible (The Austen Project ... \u00c2\u00a327.09 In stock Add to basket Page 1 of 4 next",
+    "metadata": {
+      "url": "https://books.toscrape.com/catalogue/category/books/fiction_10/index.html",
+      "title": "Fiction | \n     Books to Scrape - Sandbox",
+      "content_type": "product_page",
+      "language": "en",
+      "word_count": 236,
+      "fetched_at": "2025-11-29T04:35:10.324192+00:00"
+    }
+  },
+  {
+    "id": "01600fb678994239d3067e905a61f8d8",
+    "text": "Home Books Childrens Childrens 29 results - showing 1 to 20 . Warning! This is a demo website for web scraping purposes. Prices and ratings here were randomly assigned and have no real meaning. Birdsong: A Story in ... \u00c2\u00a354.64 In stock Add to basket The Bear and the ... \u00c2\u00a336.89 In stock Add to basket The Secret of Dreadwillow ... \u00c2\u00a356.13 In stock Add to basket The White Cat and ... \u00c2\u00a358.08 In stock Add to basket Little Red \u00c2\u00a313.47 In stock Add to basket Walt Disney's Alice in ... \u00c2\u00a312.96 In stock Add to basket Twenty Yawns \u00c2\u00a322.08 In stock Add to basket Rain Fish \u00c2\u00a323.57 In stock Add to basket Once Was a Time \u00c2\u00a318.28 In stock Add to basket Luis Paints the World \u00c2\u00a353.95 In stock Add to basket Nap-a-Roo \u00c2\u00a325.08 In stock Add to basket The Whale \u00c2\u00a335.96 In stock Add to basket Shrunken Treasures: Literary Classics, ... \u00c2\u00a352.87 In stock Add to basket Raymie Nightingale \u00c2\u00a334.41 In stock Add to basket Playing from the Heart \u00c2\u00a332.38 In stock Add to basket Maybe Something Beautiful: How ... \u00c2\u00a322.54 In stock Add to basket The Wild Robot \u00c2\u00a356.07 In stock Add to basket The Thing About Jellyfish \u00c2\u00a348.77 In stock Add to basket The Lonely Ones \u00c2\u00a343.59 In stock Add to basket The Day the Crayons ... \u00c2\u00a326.33 In stock Add to basket Page 1 of 2 next",
+    "metadata": {
+      "url": "https://books.toscrape.com/catalogue/category/books/childrens_11/index.html",
+      "title": "Childrens | \n     Books to Scrape - Sandbox",
+      "content_type": "product_page",
+      "language": "en",
+      "word_count": 232,
+      "fetched_at": "2025-11-29T04:35:11.466533+00:00"
+    }
+  },
+  {
+    "id": "81a1bf0d2d72b96a06e388084695dde5",
+    "text": "Home Books Religion Religion 7 results. Warning! This is a demo website for web scraping purposes. Prices and ratings here were randomly assigned and have no real meaning. Don't Be a Jerk: ... \u00c2\u00a337.97 In stock Add to basket You Are What You ... \u00c2\u00a321.87 In stock Add to basket God: The Most Unpleasant ... \u00c2\u00a330.03 In stock Add to basket The Book of Mormon \u00c2\u00a324.57 In stock Add to basket A History of God: ... \u00c2\u00a327.62 In stock Add to basket The Bhagavad Gita \u00c2\u00a357.49 In stock Add to basket Choosing Our Religion: The ... \u00c2\u00a328.42 In stock Add to basket",
+    "metadata": {
+      "url": "https://books.toscrape.com/catalogue/category/books/religion_12/index.html",
+      "title": "Religion | \n     Books to Scrape - Sandbox",
+      "content_type": "product_page",
+      "language": "en",
+      "word_count": 102,
+      "fetched_at": "2025-11-29T04:35:12.568389+00:00"
+    }
+  },
+  {
+    "id": "ed9175a2b136534a9b847554bdaf3fa9",
+    "text": "Home Books Nonfiction Nonfiction 110 results - showing 1 to 20 . Warning! This is a demo website for web scraping purposes. Prices and ratings here were randomly assigned and have no real meaning. Worlds Elsewhere: Journeys Around ... \u00c2\u00a340.30 In stock Add to basket The Five Love Languages: ... \u00c2\u00a331.05 In stock Add to basket Reasons to Stay Alive \u00c2\u00a326.41 In stock Add to basket #HigherSelfie: Wake Up Your ... \u00c2\u00a323.11 In stock Add to basket Unseen City: The Majesty ... \u00c2\u00a344.18 In stock Add to basket Throwing Rocks at the ... \u00c2\u00a331.12 In stock Add to basket The Life-Changing Magic of ... \u00c2\u00a316.77 In stock Add to basket The Gutsy Girl: Escapades ... \u00c2\u00a337.13 In stock Add to basket The Electric Pencil: Drawings ... \u00c2\u00a356.06 In stock Add to basket Spark Joy: An Illustrated ... \u00c2\u00a341.83 In stock Add to basket Reskilling America: Learning to ... \u00c2\u00a319.83 In stock Add to basket In the Country We ... \u00c2\u00a322.00 In stock Add to basket Everydata: The Misinformation Hidden ... \u00c2\u00a354.35 In stock Add to basket Call the Nurse: True ... \u00c2\u00a329.14 In stock Add to basket Algorithms to Live By: ... \u00c2\u00a330.81 In stock Add to basket The Power of Now: ... \u00c2\u00a343.54 In stock Add to basket The Omnivore's Dilemma: A ... \u00c2\u00a338.21 In stock Add to basket The Genius of Birds \u00c2\u00a317.24 In stock Add to basket The Artist's Way: A ... \u00c2\u00a338.49 In stock Add to basket So You've Been Publicly ... \u00c2\u00a312.23 In stock Add to basket Page 1 of 6 next",
+    "metadata": {
+      "url": "https://books.toscrape.com/catalogue/category/books/nonfiction_13/index.html",
+      "title": "Nonfiction | \n     Books to Scrape - Sandbox",
+      "content_type": "product_page",
+      "language": "en",
+      "word_count": 257,
+      "fetched_at": "2025-11-29T04:35:13.693209+00:00"
+    }
+  },
+  {
+    "id": "87fe29e36ad458eee7e6b27974cbcbf7",
+    "text": "Home Books Music Music 13 results. Warning! This is a demo website for web scraping purposes. Prices and ratings here were randomly assigned and have no real meaning. Rip it Up and ... \u00c2\u00a335.02 In stock Add to basket Our Band Could Be ... \u00c2\u00a357.25 In stock Add to basket How Music Works \u00c2\u00a337.32 In stock Add to basket Love Is a Mix ... \u00c2\u00a318.03 In stock Add to basket Please Kill Me: The ... \u00c2\u00a331.19 In stock Add to basket Kill 'Em and Leave: ... \u00c2\u00a345.05 In stock Add to basket Chronicles, Vol. 1 \u00c2\u00a352.60 In stock Add to basket This Is Your Brain ... \u00c2\u00a338.40 In stock Add to basket Orchestra of Exiles: The ... \u00c2\u00a312.36 In stock Add to basket No One Here Gets ... \u00c2\u00a320.02 In stock Add to basket Life \u00c2\u00a331.58 In stock Add to basket Old Records Never Die: ... \u00c2\u00a355.66 In stock Add to basket Forever Rockers (The Rocker ... \u00c2\u00a328.80 In stock Add to basket",
+    "metadata": {
+      "url": "https://books.toscrape.com/catalogue/category/books/music_14/index.html",
+      "title": "Music | \n     Books to Scrape - Sandbox",
+      "content_type": "product_page",
+      "language": "en",
+      "word_count": 163,
+      "fetched_at": "2025-11-29T04:35:14.820782+00:00"
+    }
+  },
+  {
+    "id": "b723ec870f24a218090c45c34fe16497",
+    "text": "Home Books Default Default 152 results - showing 1 to 20 . Warning! This is a demo website for web scraping purposes. Prices and ratings here were randomly assigned and have no real meaning. The Coming Woman: A ... \u00c2\u00a317.93 In stock Add to basket The Boys in the ... \u00c2\u00a322.60 In stock Add to basket Starving Hearts (Triangular Trade ... \u00c2\u00a313.99 In stock Add to basket America's Cradle of Quarterbacks: ... \u00c2\u00a322.50 In stock Add to basket Aladdin and His Wonderful ... \u00c2\u00a353.13 In stock Add to basket Penny Maybe \u00c2\u00a333.29 In stock Add to basket Maude (1883-1993):She Grew Up ... \u00c2\u00a318.02 In stock Add to basket The Inefficiency Assassin: Time ... \u00c2\u00a320.59 In stock Add to basket Soul Reader \u00c2\u00a339.58 In stock Add to basket Bossypants \u00c2\u00a349.46 In stock Add to basket A World of Flavor: ... \u00c2\u00a342.95 In stock Add to basket A Piece of Sky, ... \u00c2\u00a356.76 In stock Add to basket Tracing Numbers on a ... \u00c2\u00a341.60 In stock Add to basket Thirteen Reasons Why \u00c2\u00a352.72 In stock Add to basket The Secret (The Secret ... \u00c2\u00a327.37 In stock Add to basket The Psychopath Test: A ... \u00c2\u00a336.00 In stock Add to basket The Kite Runner \u00c2\u00a341.82 In stock Add to basket The Girl on the ... \u00c2\u00a355.02 In stock Add to basket The Emerald Mystery \u00c2\u00a323.15 In stock Add to basket The Bridge to Consciousness: ... \u00c2\u00a332.00 In stock Add to basket Page 1 of 8 next",
+    "metadata": {
+      "url": "https://books.toscrape.com/catalogue/category/books/default_15/index.html",
+      "title": "Default | \n     Books to Scrape - Sandbox",
+      "content_type": "product_page",
+      "language": "en",
+      "word_count": 243,
+      "fetched_at": "2025-11-29T04:35:15.951692+00:00"
+    }
+  },
+  {
+    "id": "855a192d2e4c1469936a312f242ba331",
+    "text": "Home Books Science Fiction Science Fiction 16 results. Warning! This is a demo website for web scraping purposes. Prices and ratings here were randomly assigned and have no real meaning. Mesaerion: The Best Science ... \u00c2\u00a337.59 In stock Add to basket Join \u00c2\u00a335.67 In stock Add to basket William Shakespeare's Star Wars: ... \u00c2\u00a343.30 In stock Add to basket The Project \u00c2\u00a310.65 In stock Add to basket Soft Apocalypse \u00c2\u00a326.12 In stock Add to basket Sleeping Giants (Themis Files ... \u00c2\u00a348.74 In stock Add to basket Arena \u00c2\u00a321.36 In stock Add to basket Foundation (Foundation (Publication Order) ... \u00c2\u00a332.42 In stock Add to basket The Restaurant at the ... \u00c2\u00a310.92 In stock Add to basket Ready Player One \u00c2\u00a319.07 In stock Add to basket Life, the Universe and ... \u00c2\u00a333.26 In stock Add to basket Dune (Dune #1) \u00c2\u00a354.86 In stock Add to basket Do Androids Dream of ... \u00c2\u00a351.48 In stock Add to basket Three Wishes (River of ... \u00c2\u00a344.18 In stock Add to basket The Last Girl (The ... \u00c2\u00a336.26 In stock Add to basket Having the Barbarian's Baby ... \u00c2\u00a334.96 In stock Add to basket",
+    "metadata": {
+      "url": "https://books.toscrape.com/catalogue/category/books/science-fiction_16/index.html",
+      "title": "Science Fiction | \n     Books to Scrape - Sandbox",
+      "content_type": "product_page",
+      "language": "en",
+      "word_count": 188,
+      "fetched_at": "2025-11-29T04:35:17.078581+00:00"
+    }
+  },
+  {
+    "id": "43b27adb48eefddc6d21bfbcbe40a71d",
+    "text": "Home Books Sports and Games Sports and Games 5 results. Warning! This is a demo website for web scraping purposes. Prices and ratings here were randomly assigned and have no real meaning. The Book of Basketball: ... \u00c2\u00a344.84 In stock Add to basket Friday Night Lights: A ... \u00c2\u00a351.22 In stock Add to basket Sugar Rush (Offensive Line ... \u00c2\u00a324.42 In stock Add to basket Settling the Score (The ... \u00c2\u00a344.91 In stock Add to basket Icing (Aces Hockey #2) \u00c2\u00a340.44 In stock Add to basket",
+    "metadata": {
+      "url": "https://books.toscrape.com/catalogue/category/books/sports-and-games_17/index.html",
+      "title": "Sports and Games | \n     Books to Scrape - Sandbox",
+      "content_type": "product_page",
+      "language": "en",
+      "word_count": 86,
+      "fetched_at": "2025-11-29T04:35:18.177466+00:00"
+    }
+  },
+  {
+    "id": "c8b2768b96eff2e4b647e1e351b03c7f",
+    "text": "Home Books Add a comment Add a comment 67 results - showing 1 to 20 . Warning! This is a demo website for web scraping purposes. Prices and ratings here were randomly assigned and have no real meaning. The Torch Is Passed: ... \u00c2\u00a319.09 In stock Add to basket The Mindfulness and Acceptance ... \u00c2\u00a323.89 In stock Add to basket The Art Forger \u00c2\u00a340.76 In stock Add to basket On a Midnight Clear \u00c2\u00a314.07 In stock Add to basket Judo: Seven Steps to ... \u00c2\u00a353.90 In stock Add to basket Shobu Samurai, Project Aryoku ... \u00c2\u00a329.06 In stock Add to basket Modern Romance \u00c2\u00a328.26 In stock Add to basket The White Queen (The ... \u00c2\u00a325.91 In stock Add to basket The Song of Achilles \u00c2\u00a337.40 In stock Add to basket The Immortal Life of ... \u00c2\u00a340.67 In stock Add to basket The Dovekeepers \u00c2\u00a348.78 In stock Add to basket More Than Music (Chasing ... \u00c2\u00a337.61 In stock Add to basket Code Name Verity (Code ... \u00c2\u00a322.13 In stock Add to basket Cell \u00c2\u00a320.29 In stock Add to basket Angels Walking (Angels Walking ... \u00c2\u00a334.20 In stock Add to basket A Series of Catastrophes ... \u00c2\u00a356.48 In stock Add to basket A People's History of ... \u00c2\u00a340.79 In stock Add to basket A Brush of Wings ... \u00c2\u00a355.51 In stock Add to basket Rook \u00c2\u00a337.86 In stock Add to basket The Midnight Watch: A ... \u00c2\u00a326.20 In stock Add to basket Page 1 of 4 next",
+    "metadata": {
+      "url": "https://books.toscrape.com/catalogue/category/books/add-a-comment_18/index.html",
+      "title": "Add a comment | \n     Books to Scrape - Sandbox",
+      "content_type": "product_page",
+      "language": "en",
+      "word_count": 245,
+      "fetched_at": "2025-11-29T04:35:19.341739+00:00"
+    }
+  },
+  {
+    "id": "63ee1d7217eb98fcbfe1927b365fa8e3",
+    "text": "Home Books Fantasy Fantasy 48 results - showing 1 to 20 . Warning! This is a demo website for web scraping purposes. Prices and ratings here were randomly assigned and have no real meaning. Unicorn Tracks \u00c2\u00a318.78 In stock Add to basket Saga, Volume 6 (Saga ... \u00c2\u00a325.02 In stock Add to basket Princess Between Worlds (Wide-Awake ... \u00c2\u00a313.34 In stock Add to basket Masks and Shadows \u00c2\u00a356.40 In stock Add to basket Crown of Midnight (Throne ... \u00c2\u00a343.29 In stock Add to basket Avatar: The Last Airbender: ... \u00c2\u00a328.09 In stock Add to basket A Court of Thorns ... \u00c2\u00a352.37 In stock Add to basket Throne of Glass (Throne ... \u00c2\u00a335.07 In stock Add to basket The Glittering Court (The ... \u00c2\u00a344.28 In stock Add to basket Hollow City (Miss Peregrine\u00e2\u0080\u0099s ... \u00c2\u00a342.98 In stock Add to basket The Star-Touched Queen \u00c2\u00a346.02 In stock Add to basket The Hidden Oracle (The ... \u00c2\u00a352.26 In stock Add to basket The Bane Chronicles (The ... \u00c2\u00a344.73 In stock Add to basket Island of Dragons (Unwanteds ... \u00c2\u00a329.65 In stock Add to basket Demigods & Magicians: Percy ... \u00c2\u00a337.51 In stock Add to basket City of Glass (The ... \u00c2\u00a356.02 In stock Add to basket Searching for Meaning in ... \u00c2\u00a338.73 In stock Add to basket The Star-Touched Queen \u00c2\u00a332.30 In stock Add to basket A Shard of Ice ... \u00c2\u00a356.63 In stock Add to basket King's Folly (The Kinsman ... \u00c2\u00a339.61 In stock Add to basket Page 1 of 3 next",
+    "metadata": {
+      "url": "https://books.toscrape.com/catalogue/category/books/fantasy_19/index.html",
+      "title": "Fantasy | \n     Books to Scrape - Sandbox",
+      "content_type": "product_page",
+      "language": "en",
+      "word_count": 250,
+      "fetched_at": "2025-11-29T04:35:20.472192+00:00"
+    }
+  },
+  {
+    "id": "c38ca6bcc95301bee4a24c7e5b17b957",
+    "text": "Home Books New Adult New Adult 6 results. Warning! This is a demo website for web scraping purposes. Prices and ratings here were randomly assigned and have no real meaning. Without Borders (Wanderlove #1) \u00c2\u00a345.07 In stock Add to basket The Mistake (Off-Campus #2) \u00c2\u00a343.29 In stock Add to basket The Matchmaker's Playbook (Wingmen ... \u00c2\u00a355.85 In stock Add to basket The Hook Up (Game ... \u00c2\u00a336.29 In stock Add to basket Shameless \u00c2\u00a358.35 In stock Add to basket Off Sides (Off #1) \u00c2\u00a339.45 In stock Add to basket",
+    "metadata": {
+      "url": "https://books.toscrape.com/catalogue/category/books/new-adult_20/index.html",
+      "title": "New Adult | \n     Books to Scrape - Sandbox",
+      "content_type": "product_page",
+      "language": "en",
+      "word_count": 89,
+      "fetched_at": "2025-11-29T04:35:21.571008+00:00"
+    }
+  },
+  {
+    "id": "9aea0f06e9b95a700b292049a1c2898a",
+    "text": "Home Books Young Adult Young Adult 54 results - showing 1 to 20 . Warning! This is a demo website for web scraping purposes. Prices and ratings here were randomly assigned and have no real meaning. The Requiem Red \u00c2\u00a322.65 In stock Add to basket Set Me Free \u00c2\u00a317.46 In stock Add to basket The Natural History of ... \u00c2\u00a345.22 In stock Add to basket Obsidian (Lux #1) \u00c2\u00a314.86 In stock Add to basket Burning \u00c2\u00a328.81 In stock Add to basket A Fierce and Subtle ... \u00c2\u00a328.13 In stock Add to basket Scarlett Epstein Hates It ... \u00c2\u00a343.55 In stock Add to basket Nightingale, Sing \u00c2\u00a338.28 In stock Add to basket Library of Souls (Miss ... \u00c2\u00a348.56 In stock Add to basket Frostbite (Vampire Academy #2) \u00c2\u00a329.99 In stock Add to basket Wild Swans \u00c2\u00a314.36 In stock Add to basket Until Friday Night (The ... \u00c2\u00a346.31 In stock Add to basket This Is Where It ... \u00c2\u00a327.12 In stock Add to basket The Darkest Lie \u00c2\u00a335.35 In stock Add to basket My Kind of Crazy \u00c2\u00a340.36 In stock Add to basket Don't Get Caught \u00c2\u00a355.35 In stock Add to basket Catching Jordan (Hundred Oaks) \u00c2\u00a350.83 In stock Add to basket Aristotle and Dante Discover ... \u00c2\u00a358.14 In stock Add to basket The Epidemic (The Program ... \u00c2\u00a314.44 In stock Add to basket Stars Above (The Lunar ... \u00c2\u00a348.05 In stock Add to basket Page 1 of 3 next",
+    "metadata": {
+      "url": "https://books.toscrape.com/catalogue/category/books/young-adult_21/index.html",
+      "title": "Young Adult | \n     Books to Scrape - Sandbox",
+      "content_type": "product_page",
+      "language": "en",
+      "word_count": 238,
+      "fetched_at": "2025-11-29T04:35:22.708616+00:00"
+    }
+  },
+  {
+    "id": "bd5945d7d8695e909ac5174a177f72e6",
+    "text": "Home Books Science Science 14 results. Warning! This is a demo website for web scraping purposes. Prices and ratings here were randomly assigned and have no real meaning. The Most Perfect Thing: ... \u00c2\u00a342.96 In stock Add to basket Immunity: How Elie Metchnikoff ... \u00c2\u00a357.36 In stock Add to basket Sorting the Beef from ... \u00c2\u00a344.74 In stock Add to basket Tipping Point for Planet ... \u00c2\u00a337.55 In stock Add to basket The Fabric of the ... \u00c2\u00a355.91 In stock Add to basket Diary of a Citizen ... \u00c2\u00a328.41 In stock Add to basket The Origin of Species \u00c2\u00a310.01 In stock Add to basket The Grand Design \u00c2\u00a313.76 In stock Add to basket Peak: Secrets from the ... \u00c2\u00a316.28 In stock Add to basket The Elegant Universe: Superstrings, ... \u00c2\u00a313.03 In stock Add to basket The Disappearing Spoon: And ... \u00c2\u00a357.35 In stock Add to basket Surely You're Joking, Mr. ... \u00c2\u00a325.83 In stock Add to basket Seven Brief Lessons on ... \u00c2\u00a330.60 In stock Add to basket The Selfish Gene \u00c2\u00a329.45 In stock Add to basket",
+    "metadata": {
+      "url": "https://books.toscrape.com/catalogue/category/books/science_22/index.html",
+      "title": "Science | \n     Books to Scrape - Sandbox",
+      "content_type": "product_page",
+      "language": "en",
+      "word_count": 177,
+      "fetched_at": "2025-11-29T04:35:23.838116+00:00"
+    }
+  },
+  {
+    "id": "28601df7cacee51a0356c77cec7dbb70",
+    "text": "Home Books Poetry Poetry 19 results. Warning! This is a demo website for web scraping purposes. Prices and ratings here were randomly assigned and have no real meaning. A Light in the ... \u00c2\u00a351.77 In stock Add to basket The Black Maria \u00c2\u00a352.15 In stock Add to basket Shakespeare's Sonnets \u00c2\u00a320.66 In stock Add to basket Olio \u00c2\u00a323.88 In stock Add to basket You can't bury them ... \u00c2\u00a333.63 In stock Add to basket Slow States of Collapse: ... \u00c2\u00a357.31 In stock Add to basket Untitled Collection: Sabbath Poems ... \u00c2\u00a314.27 In stock Add to basket Poems That Make Grown ... \u00c2\u00a314.19 In stock Add to basket Night Sky with Exit ... \u00c2\u00a341.05 In stock Add to basket salt. \u00c2\u00a346.78 In stock Add to basket Quarter Life Poetry: Poems ... \u00c2\u00a350.89 In stock Add to basket Out of Print: City ... \u00c2\u00a353.64 In stock Add to basket Les Fleurs du Mal \u00c2\u00a329.04 In stock Add to basket Howl and Other Poems \u00c2\u00a340.45 In stock Add to basket Leave This Song Behind: ... \u00c2\u00a351.17 In stock Add to basket The Collected Poems of ... \u00c2\u00a315.42 In stock Add to basket The Crossover \u00c2\u00a338.77 In stock Add to basket Booked \u00c2\u00a317.49 In stock Add to basket Twenty Love Poems and ... \u00c2\u00a330.95 In stock Add to basket",
+    "metadata": {
+      "url": "https://books.toscrape.com/catalogue/category/books/poetry_23/index.html",
+      "title": "Poetry | \n     Books to Scrape - Sandbox",
+      "content_type": "product_page",
+      "language": "en",
+      "word_count": 215,
+      "fetched_at": "2025-11-29T04:35:24.959748+00:00"
+    }
+  },
+  {
+    "id": "91c2c60bc088e2eee6efc4e07a297b4b",
+    "text": "Home Books Paranormal Paranormal 1 result. Warning! This is a demo website for web scraping purposes. Prices and ratings here were randomly assigned and have no real meaning. Vampire Knight, Vol. 1 ... \u00c2\u00a315.40 In stock Add to basket",
+    "metadata": {
+      "url": "https://books.toscrape.com/catalogue/category/books/paranormal_24/index.html",
+      "title": "Paranormal | \n     Books to Scrape - Sandbox",
+      "content_type": "product_page",
+      "language": "en",
+      "word_count": 39,
+      "fetched_at": "2025-11-29T04:35:26.051590+00:00"
+    }
+  },
+  {
+    "id": "00e14fddaa9a364b6491bbb3ef0602c3",
+    "text": "Home Books Art Art 8 results. Warning! This is a demo website for web scraping purposes. Prices and ratings here were randomly assigned and have no real meaning. Wall and Piece \u00c2\u00a344.18 In stock Add to basket Feathers: Displays of Brilliant ... \u00c2\u00a349.05 In stock Add to basket Art and Fear: Observations ... \u00c2\u00a348.63 In stock Add to basket The New Drawing on ... \u00c2\u00a343.02 In stock Add to basket History of Beauty \u00c2\u00a310.29 In stock Add to basket The Story of Art \u00c2\u00a341.14 In stock Add to basket The Art Book \u00c2\u00a332.34 In stock Add to basket Ways of Seeing \u00c2\u00a339.51 In stock Add to basket",
+    "metadata": {
+      "url": "https://books.toscrape.com/catalogue/category/books/art_25/index.html",
+      "title": "Art | \n     Books to Scrape - Sandbox",
+      "content_type": "product_page",
+      "language": "en",
+      "word_count": 107,
+      "fetched_at": "2025-11-29T04:35:27.146266+00:00"
+    }
+  },
+  {
+    "id": "c191d6203e1372a71a5c45c81bc2441f",
+    "text": "Home Books Psychology Psychology 7 results. Warning! This is a demo website for web scraping purposes. Prices and ratings here were randomly assigned and have no real meaning. The Lucifer Effect: Understanding ... \u00c2\u00a310.40 In stock Add to basket The Golden Condom: And ... \u00c2\u00a339.43 In stock Add to basket It Didn't Start with ... \u00c2\u00a356.27 In stock Add to basket An Unquiet Mind: A ... \u00c2\u00a321.30 In stock Add to basket Thinking, Fast and Slow \u00c2\u00a321.14 In stock Add to basket Civilization and Its Discontents \u00c2\u00a359.95 In stock Add to basket 8 Keys to Mental ... \u00c2\u00a331.04 In stock Add to basket",
+    "metadata": {
+      "url": "https://books.toscrape.com/catalogue/category/books/psychology_26/index.html",
+      "title": "Psychology | \n     Books to Scrape - Sandbox",
+      "content_type": "product_page",
+      "language": "en",
+      "word_count": 103,
+      "fetched_at": "2025-11-29T04:35:28.232024+00:00"
+    }
+  },
+  {
+    "id": "258d62bdfb69ba17588911f4c2a4f1fc",
+    "text": "Home Books Autobiography Autobiography 9 results. Warning! This is a demo website for web scraping purposes. Prices and ratings here were randomly assigned and have no real meaning. The Argonauts \u00c2\u00a310.93 In stock Add to basket M Train \u00c2\u00a327.18 In stock Add to basket Lab Girl \u00c2\u00a340.85 In stock Add to basket Approval Junkie: Adventures in ... \u00c2\u00a358.81 In stock Add to basket Running with Scissors \u00c2\u00a312.91 In stock Add to basket Me Talk Pretty One ... \u00c2\u00a357.60 In stock Add to basket Lust & Wonder \u00c2\u00a311.87 In stock Add to basket Life Without a Recipe \u00c2\u00a359.04 In stock Add to basket A Heartbreaking Work of ... \u00c2\u00a354.29 In stock Add to basket",
+    "metadata": {
+      "url": "https://books.toscrape.com/catalogue/category/books/autobiography_27/index.html",
+      "title": "Autobiography | \n     Books to Scrape - Sandbox",
+      "content_type": "product_page",
+      "language": "en",
+      "word_count": 113,
+      "fetched_at": "2025-11-29T04:35:29.317960+00:00"
+    }
+  },
+  {
+    "id": "b715f3f365f49075c34aa4683cc55e6a",
+    "text": "Home Books Parenting Parenting 1 result. Warning! This is a demo website for web scraping purposes. Prices and ratings here were randomly assigned and have no real meaning. Catastrophic Happiness: Finding Joy ... \u00c2\u00a337.35 In stock Add to basket",
+    "metadata": {
+      "url": "https://books.toscrape.com/catalogue/category/books/parenting_28/index.html",
+      "title": "Parenting | \n     Books to Scrape - Sandbox",
+      "content_type": "product_page",
+      "language": "en",
+      "word_count": 39,
+      "fetched_at": "2025-11-29T04:35:30.401812+00:00"
+    }
+  },
+  {
+    "id": "1309aeb25f73f6aad443da3b6db26182",
+    "text": "Home Books Adult Fiction Adult Fiction 1 result. Warning! This is a demo website for web scraping purposes. Prices and ratings here were randomly assigned and have no real meaning. Fifty Shades Freed (Fifty ... \u00c2\u00a315.36 In stock Add to basket",
+    "metadata": {
+      "url": "https://books.toscrape.com/catalogue/category/books/adult-fiction_29/index.html",
+      "title": "Adult Fiction | \n     Books to Scrape - Sandbox",
+      "content_type": "product_page",
+      "language": "en",
+      "word_count": 41,
+      "fetched_at": "2025-11-29T04:35:31.485142+00:00"
+    }
+  },
+  {
+    "id": "470acdee40e8e3fb7f88de4158b36b14",
+    "text": "Home Books Humor Humor 10 results. Warning! This is a demo website for web scraping purposes. Prices and ratings here were randomly assigned and have no real meaning. The Long Haul (Diary ... \u00c2\u00a344.07 In stock Add to basket Old School (Diary of ... \u00c2\u00a311.83 In stock Add to basket I Know What I'm ... \u00c2\u00a325.98 In stock Add to basket Hyperbole and a Half: ... \u00c2\u00a314.75 In stock Add to basket Dress Your Family in ... \u00c2\u00a343.68 In stock Add to basket Toddlers Are A**holes: It's ... \u00c2\u00a325.55 In stock Add to basket When You Are Engulfed ... \u00c2\u00a330.89 In stock Add to basket Naked \u00c2\u00a331.69 In stock Add to basket Lamb: The Gospel According ... \u00c2\u00a355.50 In stock Add to basket Holidays on Ice \u00c2\u00a351.07 In stock Add to basket",
+    "metadata": {
+      "url": "https://books.toscrape.com/catalogue/category/books/humor_30/index.html",
+      "title": "Humor | \n     Books to Scrape - Sandbox",
+      "content_type": "product_page",
+      "language": "en",
+      "word_count": 132,
+      "fetched_at": "2025-11-29T04:35:32.584227+00:00"
+    }
+  },
+  {
+    "id": "c3d32ff7b5222297d41c453333261d52",
+    "text": "Home Books Horror Horror 17 results. Warning! This is a demo website for web scraping purposes. Prices and ratings here were randomly assigned and have no real meaning. Security \u00c2\u00a339.25 In stock Add to basket Follow You Home \u00c2\u00a321.36 In stock Add to basket The Loney \u00c2\u00a323.40 In stock Add to basket Pet Sematary \u00c2\u00a310.56 In stock Add to basket Doctor Sleep (The Shining ... \u00c2\u00a340.12 In stock Add to basket Psycho: Sanitarium (Psycho #1.5) \u00c2\u00a336.97 In stock Add to basket Can You Keep a ... \u00c2\u00a348.64 In stock Add to basket Red Dragon (Hannibal Lecter ... \u00c2\u00a323.37 In stock Add to basket Dracula the Un-Dead \u00c2\u00a335.63 In stock Add to basket Night Shift (Night Shift ... \u00c2\u00a312.75 In stock Add to basket Needful Things \u00c2\u00a347.51 In stock Add to basket Misery \u00c2\u00a334.79 In stock Add to basket It \u00c2\u00a325.01 In stock Add to basket 'Salem's Lot \u00c2\u00a349.56 In stock Add to basket The Stand \u00c2\u00a357.86 In stock Add to basket The Girl with All ... \u00c2\u00a349.47 In stock Add to basket House of Leaves \u00c2\u00a354.89 In stock Add to basket",
+    "metadata": {
+      "url": "https://books.toscrape.com/catalogue/category/books/horror_31/index.html",
+      "title": "Horror | \n     Books to Scrape - Sandbox",
+      "content_type": "product_page",
+      "language": "en",
+      "word_count": 181,
+      "fetched_at": "2025-11-29T04:35:33.811322+00:00"
+    }
+  },
+  {
+    "id": "4e295667b231ce18a47ce5e162c13ea6",
+    "text": "Home Books History History 18 results. Warning! This is a demo website for web scraping purposes. Prices and ratings here were randomly assigned and have no real meaning. Sapiens: A Brief History ... \u00c2\u00a354.23 In stock Add to basket Unbound: How Eight Technologies ... \u00c2\u00a325.52 In stock Add to basket The Age of Genius: ... \u00c2\u00a319.73 In stock Add to basket Political Suicide: Missteps, Peccadilloes, ... \u00c2\u00a336.28 In stock Add to basket Thomas Jefferson and the ... \u00c2\u00a359.64 In stock Add to basket Zealot: The Life and ... \u00c2\u00a324.70 In stock Add to basket A Distant Mirror: The ... \u00c2\u00a314.58 In stock Add to basket 1491: New Revelations of ... \u00c2\u00a321.80 In stock Add to basket Brilliant Beacons: A History ... \u00c2\u00a311.45 In stock Add to basket \"Most Blessed of the ... \u00c2\u00a344.48 In stock Add to basket A Short History of ... \u00c2\u00a352.40 In stock Add to basket The Rise and Fall ... \u00c2\u00a339.67 In stock Add to basket Catherine the Great: Portrait ... \u00c2\u00a358.55 In stock Add to basket The Mathews Men: Seven ... \u00c2\u00a342.91 In stock Add to basket The Hiding Place \u00c2\u00a355.91 In stock Add to basket America's War for the ... \u00c2\u00a351.22 In stock Add to basket The Guns of August \u00c2\u00a314.54 In stock Add to basket House of Lost Worlds: ... \u00c2\u00a343.70 In stock Add to basket",
+    "metadata": {
+      "url": "https://books.toscrape.com/catalogue/category/books/history_32/index.html",
+      "title": "History | \n     Books to Scrape - Sandbox",
+      "content_type": "product_page",
+      "language": "en",
+      "word_count": 223,
+      "fetched_at": "2025-11-29T04:35:35.012179+00:00"
+    }
+  },
+  {
+    "id": "2210feee3b13b324ae924ccc466334c0",
+    "text": "Home Books Food and Drink Food and Drink 30 results - showing 1 to 20 . Warning! This is a demo website for web scraping purposes. Prices and ratings here were randomly assigned and have no real meaning. Foolproof Preserving: A Guide ... \u00c2\u00a330.52 In stock Add to basket The Pioneer Woman Cooks: ... \u00c2\u00a356.41 In stock Add to basket My Paris Kitchen: Recipes ... \u00c2\u00a333.37 In stock Add to basket Mama Tried: Traditional Italian ... \u00c2\u00a314.02 In stock Add to basket Layered: Baking, Building, and ... \u00c2\u00a340.11 In stock Add to basket The Nerdy Nummies Cookbook: ... \u00c2\u00a337.34 In stock Add to basket The Love and Lemons ... \u00c2\u00a337.60 In stock Add to basket The Cookies & Cups ... \u00c2\u00a341.25 In stock Add to basket Deliciously Ella Every Day: ... \u00c2\u00a342.16 In stock Add to basket The Help Yourself Cookbook ... \u00c2\u00a328.77 In stock Add to basket It's All Easy: Healthy, ... \u00c2\u00a319.55 In stock Add to basket Barefoot Contessa Back to ... \u00c2\u00a328.01 In stock Add to basket Barefoot Contessa at Home: ... \u00c2\u00a350.62 In stock Add to basket My Kitchen Year: 136 ... \u00c2\u00a311.53 In stock Add to basket Everyday Italian: 125 Simple ... \u00c2\u00a320.10 In stock Add to basket A la Mode: 120 ... \u00c2\u00a338.77 In stock Add to basket Cravings: Recipes for What ... \u00c2\u00a320.50 In stock Add to basket The Moosewood Cookbook: Recipes ... \u00c2\u00a312.34 In stock Add to basket 32 Yolks \u00c2\u00a353.63 In stock Add to basket Naturally Lean: 125 Nourishing ... \u00c2\u00a311.38 In stock Add to basket Page 1 of 2 next",
+    "metadata": {
+      "url": "https://books.toscrape.com/catalogue/category/books/food-and-drink_33/index.html",
+      "title": "Food and Drink | \n     Books to Scrape - Sandbox",
+      "content_type": "product_page",
+      "language": "en",
+      "word_count": 260,
+      "fetched_at": "2025-11-29T04:35:36.155167+00:00"
+    }
+  },
+  {
+    "id": "b7cc612575601977e7d12d153765858f",
+    "text": "Home Books Christian Fiction Christian Fiction 6 results. Warning! This is a demo website for web scraping purposes. Prices and ratings here were randomly assigned and have no real meaning. Redeeming Love \u00c2\u00a320.47 In stock Add to basket Close to You \u00c2\u00a349.46 In stock Add to basket Shadows of the Past ... \u00c2\u00a339.67 In stock Add to basket Like Never Before (Walker ... \u00c2\u00a328.77 In stock Add to basket Counted With the Stars ... \u00c2\u00a317.97 In stock Add to basket If I Run (If ... \u00c2\u00a349.97 In stock Add to basket",
+    "metadata": {
+      "url": "https://books.toscrape.com/catalogue/category/books/christian-fiction_34/index.html",
+      "title": "Christian Fiction | \n     Books to Scrape - Sandbox",
+      "content_type": "product_page",
+      "language": "en",
+      "word_count": 91,
+      "fetched_at": "2025-11-29T04:35:37.254511+00:00"
+    }
+  },
+  {
+    "id": "3b4860fa27b289a0abfd84e319d53c9b",
+    "text": "Home Books Business Business 12 results. Warning! This is a demo website for web scraping purposes. Prices and ratings here were randomly assigned and have no real meaning. The Dirty Little Secrets ... \u00c2\u00a333.34 In stock Add to basket The Third Wave: An ... \u00c2\u00a312.61 In stock Add to basket The 10% Entrepreneur: Live ... \u00c2\u00a327.55 In stock Add to basket Shoe Dog: A Memoir ... \u00c2\u00a323.99 In stock Add to basket Made to Stick: Why ... \u00c2\u00a338.85 In stock Add to basket Quench Your Own Thirst: ... \u00c2\u00a343.14 In stock Add to basket The Art of Startup ... \u00c2\u00a321.00 In stock Add to basket Born for This: How ... \u00c2\u00a321.59 In stock Add to basket The E-Myth Revisited: Why ... \u00c2\u00a336.91 In stock Add to basket Rich Dad, Poor Dad \u00c2\u00a351.74 In stock Add to basket The Lean Startup: How ... \u00c2\u00a333.92 In stock Add to basket Rework \u00c2\u00a344.88 In stock Add to basket",
+    "metadata": {
+      "url": "https://books.toscrape.com/catalogue/category/books/business_35/index.html",
+      "title": "Business | \n     Books to Scrape - Sandbox",
+      "content_type": "product_page",
+      "language": "en",
+      "word_count": 155,
+      "fetched_at": "2025-11-29T04:35:38.351078+00:00"
+    }
+  },
+  {
+    "id": "e763dd96c2fea1e48bbbfefa12fee492",
+    "text": "Home Books Biography Biography 5 results. Warning! This is a demo website for web scraping purposes. Prices and ratings here were randomly assigned and have no real meaning. Louisa: The Extraordinary Life ... \u00c2\u00a316.85 In stock Add to basket Setting the World on ... \u00c2\u00a321.15 In stock Add to basket The Faith of Christopher ... \u00c2\u00a339.55 In stock Add to basket Benjamin Franklin: An American ... \u00c2\u00a348.19 In stock Add to basket The Rise of Theodore ... \u00c2\u00a342.57 In stock Add to basket",
+    "metadata": {
+      "url": "https://books.toscrape.com/catalogue/category/books/biography_36/index.html",
+      "title": "Biography | \n     Books to Scrape - Sandbox",
+      "content_type": "product_page",
+      "language": "en",
+      "word_count": 83,
+      "fetched_at": "2025-11-29T04:35:39.531515+00:00"
+    }
+  },
+  {
+    "id": "99dfd67cfc0ad68566cd49cdad457ad7",
+    "text": "Home Books Thriller Thriller 11 results. Warning! This is a demo website for web scraping purposes. Prices and ratings here were randomly assigned and have no real meaning. In Her Wake \u00c2\u00a312.84 In stock Add to basket The Elephant Tree \u00c2\u00a323.82 In stock Add to basket Behind Closed Doors \u00c2\u00a352.22 In stock Add to basket You (You #1) \u00c2\u00a343.61 In stock Add to basket The Guilty (Will Robie ... \u00c2\u00a313.82 In stock Add to basket The 14th Colony (Cotton ... \u00c2\u00a339.24 In stock Add to basket Give It Back \u00c2\u00a318.32 In stock Add to basket Killing Floor (Jack Reacher ... \u00c2\u00a331.49 In stock Add to basket The Bone Hunters (Lexy ... \u00c2\u00a359.71 In stock Add to basket Far From True (Promise ... \u00c2\u00a334.93 In stock Add to basket The Travelers \u00c2\u00a315.77 In stock Add to basket",
+    "metadata": {
+      "url": "https://books.toscrape.com/catalogue/category/books/thriller_37/index.html",
+      "title": "Thriller | \n     Books to Scrape - Sandbox",
+      "content_type": "product_page",
+      "language": "en",
+      "word_count": 136,
+      "fetched_at": "2025-11-29T04:35:40.672770+00:00"
+    }
+  },
+  {
+    "id": "534a26b60c70e976e5d3b13b5dcccf6d",
+    "text": "Home Books Contemporary Contemporary 3 results. Warning! This is a demo website for web scraping purposes. Prices and ratings here were randomly assigned and have no real meaning. When We Collided \u00c2\u00a331.77 In stock Add to basket Someone Like You (The ... \u00c2\u00a352.79 In stock Add to basket We Are All Completely ... \u00c2\u00a324.04 In stock Add to basket",
+    "metadata": {
+      "url": "https://books.toscrape.com/catalogue/category/books/contemporary_38/index.html",
+      "title": "Contemporary | \n     Books to Scrape - Sandbox",
+      "content_type": "product_page",
+      "language": "en",
+      "word_count": 59,
+      "fetched_at": "2025-11-29T04:35:41.761157+00:00"
+    }
+  },
+  {
+    "id": "25f8f4fc85a9a9cdb73ff9da93e382c6",
+    "text": "Home Books Spirituality Spirituality 6 results. Warning! This is a demo website for web scraping purposes. Prices and ratings here were randomly assigned and have no real meaning. The Four Agreements: A ... \u00c2\u00a317.66 In stock Add to basket The Activist's Tao Te ... \u00c2\u00a332.24 In stock Add to basket Chasing Heaven: What Dying ... \u00c2\u00a337.80 In stock Add to basket If I Gave You ... \u00c2\u00a320.91 In stock Add to basket Unreasonable Hope: Finding Faith ... \u00c2\u00a346.33 In stock Add to basket A New Earth: Awakening ... \u00c2\u00a355.65 In stock Add to basket",
+    "metadata": {
+      "url": "https://books.toscrape.com/catalogue/category/books/spirituality_39/index.html",
+      "title": "Spirituality | \n     Books to Scrape - Sandbox",
+      "content_type": "product_page",
+      "language": "en",
+      "word_count": 94,
+      "fetched_at": "2025-11-29T04:35:42.850990+00:00"
+    }
+  },
+  {
+    "id": "f1b1cc430e425d4b5c98070908622575",
+    "text": "Home Books Academic Academic 1 result. Warning! This is a demo website for web scraping purposes. Prices and ratings here were randomly assigned and have no real meaning. Logan Kade (Fallen Crest ... \u00c2\u00a313.12 In stock Add to basket",
+    "metadata": {
+      "url": "https://books.toscrape.com/catalogue/category/books/academic_40/index.html",
+      "title": "Academic | \n     Books to Scrape - Sandbox",
+      "content_type": "product_page",
+      "language": "en",
+      "word_count": 39,
+      "fetched_at": "2025-11-29T04:35:43.943928+00:00"
+    }
+  },
+  {
+    "id": "5f88ea527c57d2eab93b9f7e5d1eecda",
+    "text": "Home Books Self Help Self Help 5 results. Warning! This is a demo website for web scraping purposes. Prices and ratings here were randomly assigned and have no real meaning. Online Marketing for Busy ... \u00c2\u00a346.35 In stock Add to basket How to Be Miserable: ... \u00c2\u00a346.03 In stock Add to basket Overload: How to Unplug, ... \u00c2\u00a352.15 In stock Add to basket You Are a Badass: ... \u00c2\u00a312.08 In stock Add to basket How to Stop Worrying ... \u00c2\u00a346.49 In stock Add to basket",
+    "metadata": {
+      "url": "https://books.toscrape.com/catalogue/category/books/self-help_41/index.html",
+      "title": "Self Help | \n     Books to Scrape - Sandbox",
+      "content_type": "product_page",
+      "language": "en",
+      "word_count": 85,
+      "fetched_at": "2025-11-29T04:35:45.029523+00:00"
+    }
+  },
+  {
+    "id": "7e7ba33e53c20eeee6eb43c22838c2b3",
+    "text": "Home Books Historical Historical 2 results. Warning! This is a demo website for web scraping purposes. Prices and ratings here were randomly assigned and have no real meaning. All the Light We ... \u00c2\u00a329.87 In stock Add to basket The Girl You Left ... \u00c2\u00a315.79 In stock Add to basket",
+    "metadata": {
+      "url": "https://books.toscrape.com/catalogue/category/books/historical_42/index.html",
+      "title": "Historical | \n     Books to Scrape - Sandbox",
+      "content_type": "product_page",
+      "language": "en",
+      "word_count": 50,
+      "fetched_at": "2025-11-29T04:35:46.112259+00:00"
+    }
+  },
+  {
+    "id": "8446832a47bd4d126e20d4608487a6cf",
+    "text": "Home Books Christian Christian 3 results. Warning! This is a demo website for web scraping purposes. Prices and ratings here were randomly assigned and have no real meaning. (Un)Qualified: How God Uses ... \u00c2\u00a354.00 In stock Add to basket Crazy Love: Overwhelmed by ... \u00c2\u00a347.72 In stock Add to basket Blue Like Jazz: Nonreligious ... \u00c2\u00a325.77 In stock Add to basket",
+    "metadata": {
+      "url": "https://books.toscrape.com/catalogue/category/books/christian_43/index.html",
+      "title": "Christian | \n     Books to Scrape - Sandbox",
+      "content_type": "product_page",
+      "language": "en",
+      "word_count": 61,
+      "fetched_at": "2025-11-29T04:35:47.196928+00:00"
+    }
+  },
+  {
+    "id": "60fdb7fcb5509d49479ee645ac5035f9",
+    "text": "Home Books Suspense Suspense 1 result. Warning! This is a demo website for web scraping purposes. Prices and ratings here were randomly assigned and have no real meaning. Silence in the Dark ... \u00c2\u00a358.33 In stock Add to basket",
+    "metadata": {
+      "url": "https://books.toscrape.com/catalogue/category/books/suspense_44/index.html",
+      "title": "Suspense | \n     Books to Scrape - Sandbox",
+      "content_type": "product_page",
+      "language": "en",
+      "word_count": 39,
+      "fetched_at": "2025-11-29T04:35:48.281434+00:00"
+    }
+  },
+  {
+    "id": "ed5a4502fd00ec0a9090cc1bd66ba148",
+    "text": "Home Books Short Stories Short Stories 1 result. Warning! This is a demo website for web scraping purposes. Prices and ratings here were randomly assigned and have no real meaning. The Grownup \u00c2\u00a335.88 In stock Add to basket",
+    "metadata": {
+      "url": "https://books.toscrape.com/catalogue/category/books/short-stories_45/index.html",
+      "title": "Short Stories | \n     Books to Scrape - Sandbox",
+      "content_type": "product_page",
+      "language": "en",
+      "word_count": 38,
+      "fetched_at": "2025-11-29T04:35:49.365167+00:00"
+    }
+  },
+  {
+    "id": "d8e887cc796016ce989855d4eab209e0",
+    "text": "Home Books Novels Novels 1 result. Warning! This is a demo website for web scraping purposes. Prices and ratings here were randomly assigned and have no real meaning. Suzie Snowflake: One beautiful ... \u00c2\u00a354.81 In stock Add to basket",
+    "metadata": {
+      "url": "https://books.toscrape.com/catalogue/category/books/novels_46/index.html",
+      "title": "Novels | \n     Books to Scrape - Sandbox",
+      "content_type": "product_page",
+      "language": "en",
+      "word_count": 39,
+      "fetched_at": "2025-11-29T04:35:50.539007+00:00"
+    }
+  },
+  {
+    "id": "772a6c7394f1805326b5ca94f95bc544",
+    "text": "Home Books Health Health 4 results. Warning! This is a demo website for web scraping purposes. Prices and ratings here were randomly assigned and have no real meaning. The Bulletproof Diet: Lose ... \u00c2\u00a349.05 In stock Add to basket Eat Fat, Get Thin \u00c2\u00a354.07 In stock Add to basket 10-Day Green Smoothie Cleanse: ... \u00c2\u00a349.71 In stock Add to basket The Art and Science ... \u00c2\u00a352.98 In stock Add to basket",
+    "metadata": {
+      "url": "https://books.toscrape.com/catalogue/category/books/health_47/index.html",
+      "title": "Health | \n     Books to Scrape - Sandbox",
+      "content_type": "product_page",
+      "language": "en",
+      "word_count": 71,
+      "fetched_at": "2025-11-29T04:35:51.612283+00:00"
+    }
+  },
+  {
+    "id": "3edb605aed1c7484eb11b2abdfddce81",
+    "text": "Home Books Politics Politics 3 results. Warning! This is a demo website for web scraping purposes. Prices and ratings here were randomly assigned and have no real meaning. Libertarianism for Beginners \u00c2\u00a351.33 In stock Add to basket Why the Right Went ... \u00c2\u00a352.65 In stock Add to basket Equal Is Unfair: America's ... \u00c2\u00a356.86 In stock Add to basket",
+    "metadata": {
+      "url": "https://books.toscrape.com/catalogue/category/books/politics_48/index.html",
+      "title": "Politics | \n     Books to Scrape - Sandbox",
+      "content_type": "product_page",
+      "language": "en",
+      "word_count": 59,
+      "fetched_at": "2025-11-29T04:35:52.692292+00:00"
+    }
+  }
+]
